@@ -1,0 +1,2 @@
+# Joystick-acquisition-software
+This is software written in Visual Basics for the data acquisition in the Joystick setup. This setup was initially developed in Würzburg by Reinhard Wolf and Martin Heisenberg. It was later on modified in Regensburg to control light as a closed loop instead of IR laser for the implementation of optogenetics. In addition a third platform was added for higher throughput. The design for the software and hardware modification was carried out by Johann Schmid, Christian Rohrsen and Björn Brembs.
